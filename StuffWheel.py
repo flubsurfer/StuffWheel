@@ -7,7 +7,12 @@ Comedy_Movies = ['Borat', 'Anchorman', 'Team_America', 'Napoleon_Dynamite', 'Thi
 'Friday', 'Swingers', 'The_Three_Stooges', 'Wedding_Crashers', 'Theres_Something_About_Mary']
 Scary_Movies = ['Hills Have Eyes', 'It', 'Lepercaun', 'Silence of the Lambs']
 Drama_Movies = ['Boiler_Room', 'Willy Wonka and the Chocolate Factory', 'Shawshank Redemption', 'Limitless']
-Documentaries = ['House of Saud']
+Documentaries = ['Supersize Me', 'Inside Job', 'The Smartest Guys in the Room', 'American Pimp', 
+'Young and Restless in China', 'Battle for Haiti', 'House of Saud', 'Zeitgeist', 'Inconvenient Truth', 
+'Dark Days', 'The Corporation', 'Hoop Dreams', 'The Salesman', 'Tyson',
+'Style Wars', 'Startup.com',]
+Action = ['Old Boy']
+Favorites = [][]
 SciFi = []
 Standup_Comedy = []
 Comedy_Shows = []
